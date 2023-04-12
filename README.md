@@ -49,7 +49,7 @@ Python project to transform a csv file from Trading212 into a csv file that can 
 ## ToDo
 
 - [x] Add your own path to file and output file
-- [ ] Does **not** add any currency other than **dollars**
+- [x] Does **not** add any currency other than **dollars**
 
 ## Other
 
